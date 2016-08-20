@@ -2,7 +2,9 @@
 
 Weatherify is an android application that display Amsterdam weather forecast.
 
-  - Display List with Low and high temperature for 10 days .
+    - Display List with with Low and high temperature for 10 days .
+  ![screenshot_1471734622](https://cloud.githubusercontent.com/assets/1522931/17834403/61fafa58-6747-11e6-8a96-141286fac0d6.png)
+
 
 Used [Espresso] to write concise, beautiful, and reliable Android UI tests and [MockWebServer] to mimic http api responses and [LeakCanary] for memory leaks detection.
 

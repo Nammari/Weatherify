@@ -1,0 +1,149 @@
+{
+  "query": {
+    "count": 1,
+    "created": "2016-08-20T13:39:14Z",
+    "lang": "en-US",
+    "results": {
+      "channel": {
+        "units": {
+          "distance": "mi",
+          "pressure": "in",
+          "speed": "mph",
+          "temperature": "F"
+        },
+        "title": "Yahoo! Weather - Amsterdam, NH, NL",
+        "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-727232/",
+        "description": "Yahoo! Weather for Amsterdam, NH, NL",
+        "language": "en-us",
+        "lastBuildDate": "Sat, 20 Aug 2016 03:39 PM CEST",
+        "ttl": "60",
+        "location": {
+          "city": "Amsterdam",
+          "country": "Netherlands",
+          "region": " NH"
+        },
+        "wind": {
+          "chill": "72",
+          "direction": "230",
+          "speed": "25"
+        },
+        "atmosphere": {
+          "humidity": "52",
+          "pressure": "1010.0",
+          "rising": "0",
+          "visibility": "16.1"
+        },
+        "astronomy": {
+          "sunrise": "6:34 am",
+          "sunset": "8:52 pm"
+        },
+        "image": {
+          "title": "Yahoo! Weather",
+          "width": "142",
+          "height": "18",
+          "link": "http://weather.yahoo.com",
+          "url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+        },
+        "item": {
+          "title": "Conditions for Amsterdam, NH, NL at 03:00 PM CEST",
+          "lat": "52.373119",
+          "long": "4.89319",
+          "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-727232/",
+          "pubDate": "Sat, 20 Aug 2016 03:00 PM CEST",
+          "condition": {
+            "code": "39",
+            "date": "Sat, 20 Aug 2016 03:00 PM CEST",
+            "temp": "71",
+            "text": "Scattered Showers"
+          },
+          "forecast": [
+            {
+              "code": "12",
+              "date": "20 Aug 2016",
+              "day": "Sat",
+              "high": "2272",
+              "low": "62",
+              "text": "Rain"
+            },
+            {
+              "code": "11",
+              "date": "21 Aug 2016",
+              "day": "Sun",
+              "high": "2272",
+              "low": "59",
+              "text": "Showers"
+            },
+            {
+              "code": "28",
+              "date": "22 Aug 2016",
+              "day": "Mon",
+              "high": "2272",
+              "low": "61",
+              "text": "Mostly Cloudy"
+            },
+            {
+              "code": "30",
+              "date": "23 Aug 2016",
+              "day": "Tue",
+              "high": "2272",
+              "low": "59",
+              "text": "Partly Cloudy"
+            },
+            {
+              "code": "30",
+              "date": "24 Aug 2016",
+              "day": "Wed",
+              "high": "2272",
+              "low": "62",
+              "text": "Partly Cloudy"
+            },
+            {
+              "code": "30",
+              "date": "25 Aug 2016",
+              "day": "Thu",
+              "high": "2272",
+              "low": "64",
+              "text": "Partly Cloudy"
+            },
+            {
+              "code": "30",
+              "date": "26 Aug 2016",
+              "day": "Fri",
+              "high": "2272",
+              "low": "65",
+              "text": "Partly Cloudy"
+            },
+            {
+              "code": "30",
+              "date": "27 Aug 2016",
+              "day": "Sat",
+              "high": "2272",
+              "low": "63",
+              "text": "Partly Cloudy"
+            },
+            {
+              "code": "30",
+              "date": "28 Aug 2016",
+              "day": "Sun",
+              "high": "2272",
+              "low": "63",
+              "text": "Partly Cloudy"
+            },
+            {
+              "code": "30",
+              "date": "28 Aug 2016",
+              "day": "Sun",
+              "high": "2272",
+              "low": "63",
+              "text": "Partly Cloudy"
+            }
+          ],
+          "description": "<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/39.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Scattered Showers\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Sat - Rain. High: 72Low: 62\n<BR /> Sun - Showers. High: 66Low: 59\n<BR /> Mon - Mostly Cloudy. High: 69Low: 61\n<BR /> Tue - Partly Cloudy. High: 76Low: 59\n<BR /> Wed - Partly Cloudy. High: 79Low: 62\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-727232/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n(provided by <a href=\"http://www.weather.com\" >The Weather Channel</a>)\n<BR />\n]]>",
+          "guid": {
+            "isPermaLink": "false"
+          }
+        }
+      }
+    }
+  }
+}

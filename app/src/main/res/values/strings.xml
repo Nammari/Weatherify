@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weatherify</string>
+    <string name="retry">Retry</string>
+    <string name="amsterdam_weather">Amsterdam Weather</string>
+    <string name="error_text">Something went wrong!</string>
+    <string name="high">HI</string>
+    <string name="low">LW</string>
+    <string name="today">Today</string>
+    <string name="empty">No Forecasts.</string>
+</resources>
